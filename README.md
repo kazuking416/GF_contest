@@ -1,11 +1,3 @@
-## memo
-### motor A
-Stator outer diameter : 225 [mm]  
-Stack length : 134 [mm]  
-Number of pole pairs : 3  
-Number of slots/pole/phase : 3  
-
-
 # GF_contest
 
 このプロジェクトは、データセットを用いた分析・モデル構築・結果の共有を目的としています。  
