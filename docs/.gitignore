@@ -1,0 +1,5 @@
+# docs/ref ディレクトリを除外
+ref/
+
+# docs/rules ディレクトリを除外
+rules/
